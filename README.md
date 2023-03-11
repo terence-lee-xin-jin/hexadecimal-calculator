@@ -1,7 +1,9 @@
 # Hexadecimal Calculator
 
 
-A simple hexadecimal calculator application for calculating <br/><br/>
+A simple JavaFX Desktop app that allows the calculation of basic arithmetic operations in hexadecimal.<br/><br/>
+
+Also shows the equivalent hexadecimal values in decimal (ordinary) numbers.<br/><br/>
 
 **Author:** Terence Lee Xin Jin<br/><br/>
 
