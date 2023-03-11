@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hexadecimalcalculator:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29c2152a-c779-425f-8d27-7b4fdf7f58f2" name="Changes" comment="First Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2LmEKV8M76ia87hvfzWgFtWVdDW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jjj/Desktop/PortfolioProject/JavaFX_THexadecimalCalculator/HexadecimalCalculator/src/META-INF&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15527344&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jjj\Desktop\PortfolioProject\JavaFX_THexadecimalCalculator\HexadecimalCalculator\src\META-INF" />
+      <recent name="C:\Users\jjj\Desktop\PortfolioProject\JavaFX_THexadecimalCalculator\HexadecimalCalculator\src" />
+      <recent name="C:\Users\jjj\Desktop\PortfolioProject\JavaFX_THexadecimalCalculator\HexadecimalCalculator\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jjj\Desktop\PortfolioProject\JavaFX_THexadecimalCalculator\HexadecimalCalculator\src\main" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.terence.translateapp.models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.terence.hexadecimalcalculator.Main" />
+      <module name="hexadecimalcalculator" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path &quot;C:\Users\jjj\Downloads\openjfx-17.0.6_windows-x64_bin-sdk\javafx-sdk-17.0.6\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HexadecimalCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hexadecimalcalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.terence.hexadecimalcalculator.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.terence.hexadecimalcalculator.models" />
+      <option name="MAIN_CLASS_NAME" value="com.terence.hexadecimalcalculator.models.HexadecimalCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HexadecimalCalculatorTest.add_validParams_correctResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hexadecimalcalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.terence.hexadecimalcalculator.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.terence.hexadecimalcalculator.models" />
+      <option name="MAIN_CLASS_NAME" value="com.terence.hexadecimalcalculator.models.HexadecimalCalculatorTest" />
+      <option name="METHOD_NAME" value="add_validParams_correctResult(java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HexadecimalCalculatorTest.convertHexadecimalToDecimal_invalidParams_overlyLargeOrInvalidNumber_NumberFormatException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TranslateApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.terence.hexadecimalcalculator.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.terence.hexadecimalcalculator.models" />
+      <option name="MAIN_CLASS_NAME" value="com.terence.hexadecimalcalculator.models.HexadecimalCalculatorTest" />
+      <option name="METHOD_NAME" value="convertHexadecimalToDecimal_invalidParams_overlyLargeOrInvalidNumber_NumberFormatException(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HexadecimalCalculatorTest.divide_invalidParams_overlyLargeOrInvalidNumber_NumberFormatException (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hexadecimalcalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.terence.hexadecimalcalculator.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.terence.hexadecimalcalculator.models" />
+      <option name="MAIN_CLASS_NAME" value="com.terence.hexadecimalcalculator.models.HexadecimalCalculatorTest" />
+      <option name="METHOD_NAME" value="divide_invalidParams_overlyLargeOrInvalidNumber_NumberFormatException(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HexadecimalCalculatorTest.modulus_invalidParams_overlyLargeOrInvalidNumber_NumberFormatException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TranslateApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.terence.hexadecimalcalculator.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.terence.hexadecimalcalculator.models" />
+      <option name="MAIN_CLASS_NAME" value="com.terence.hexadecimalcalculator.models.HexadecimalCalculatorTest" />
+      <option name="METHOD_NAME" value="modulus_invalidParams_overlyLargeOrInvalidNumber_NumberFormatException(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.HexadecimalCalculatorTest" />
+      <item itemvalue="JUnit.HexadecimalCalculatorTest.add_validParams_correctResult" />
+      <item itemvalue="JUnit.HexadecimalCalculatorTest.convertHexadecimalToDecimal_invalidParams_overlyLargeOrInvalidNumber_NumberFormatException" />
+      <item itemvalue="JUnit.HexadecimalCalculatorTest.divide_invalidParams_overlyLargeOrInvalidNumber_NumberFormatException (1)" />
+      <item itemvalue="JUnit.HexadecimalCalculatorTest.modulus_invalidParams_overlyLargeOrInvalidNumber_NumberFormatException" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HexadecimalCalculatorTest" />
+        <item itemvalue="JUnit.HexadecimalCalculatorTest.divide_invalidParams_overlyLargeOrInvalidNumber_NumberFormatException (1)" />
+        <item itemvalue="JUnit.HexadecimalCalculatorTest.add_validParams_correctResult" />
+        <item itemvalue="JUnit.HexadecimalCalculatorTest.convertHexadecimalToDecimal_invalidParams_overlyLargeOrInvalidNumber_NumberFormatException" />
+        <item itemvalue="JUnit.HexadecimalCalculatorTest.modulus_invalidParams_overlyLargeOrInvalidNumber_NumberFormatException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29c2152a-c779-425f-8d27-7b4fdf7f58f2" name="Changes" comment="" />
+      <created>1676467803875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676467803875</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1676703976982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676703976982</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1678541523465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678541523465</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/terence/hexadecimalcalculator/models/HexadecimalCalculatorTest.java</url>
+          <line>20</line>
+          <properties class="com.terence.hexadecimalcalculator.models.HexadecimalCalculatorTest" method="add_validParams_correctResult">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

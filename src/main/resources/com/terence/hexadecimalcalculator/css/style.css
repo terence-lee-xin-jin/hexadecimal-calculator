@@ -1,0 +1,21 @@
+
+.gray-disabled-text-field{
+    -fx-background-color: #EDEDED;
+    -fx-border-color: #BFBFBF;
+}
+
+
+.combo-box .combo-box-popup{
+    -fx-font-size : 15pt;
+    -fx-text-alignment: CENTER;
+}
+
+.combo-box .list-cell{
+
+    -fx-font-size : 12pt;
+    -fx-text-alignment: CENTER;
+    -fx-font-weight: BOLD;
+}
+
+
+
